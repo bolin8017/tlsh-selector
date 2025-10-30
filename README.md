@@ -25,16 +25,10 @@ Select the most diverse files from a dataset using TLSH (Trend Micro Locality Se
 
 ## Installation
 
-### From PyPI (when published)
-
-```bash
-pip install tlsh-selector
-```
-
 ### From Source
 
 ```bash
-git clone https://github.com/yourusername/tlsh-selector.git
+git clone https://github.com/bolin8017/tlsh-selector.git
 cd tlsh-selector
 pip install -e .
 ```
