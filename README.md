@@ -304,7 +304,7 @@ except ValueError as e:
 ### Setup
 
 ```bash
-git clone https://github.com/yourusername/tlsh-selector.git
+git clone https://github.com/bolin8017/tlsh-selector.git
 cd tlsh-selector
 pip install -e ".[dev]"
 ```
@@ -344,8 +344,8 @@ If you use this tool in your research, please cite:
 ```bibtex
 @software{tlsh_selector,
   title = {tlsh-selector: Select diverse files using TLSH},
-  author = {Your Name},
-  year = {2024},
-  url = {https://github.com/yourusername/tlsh-selector}
+  author = {Po-Lin Lai},
+  year = {2025},
+  url = {https://github.com/bolin8017/tlsh-selector}
 }
 ```
